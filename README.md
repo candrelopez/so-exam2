@@ -20,7 +20,8 @@ Parcial Sistemas operativos
  primero reviso la cantidad de servicios que se estan corriendo dentro de la maquina con el comando:
  
  systemctl -t service list-units --all y esto da como resultado lo siguiente:
- ![Suma_completa](servicios.PNG)
+ ![Suma_completa](servicios.PNG)  
+ Luego de eso creo dos scripts para iniciarlos como procesos.
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
  * Las pruebas se realizaran sobre un solo núcleo de la CPU
