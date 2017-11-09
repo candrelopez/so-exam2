@@ -22,5 +22,5 @@ Parcial Sistemas operativos
  * Cuando uno de los procesos se cancela, el que continua ejecutándose debe poder llegar al 100% de la CPU
 5. Por medio de las evidencias obtenidas en los puntos anteriores y de fuentes de consulta en Internet, elabore las definiciones para los grupos de control CPUQuota y CPUShares, además concluya acerca de cuando es preferible usar un recurso de control sobre otro (20%)
 
-![Suma_completa](servicios.png)
+![Suma_completa](servicios.PNG)
  
