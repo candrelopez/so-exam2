@@ -5,7 +5,7 @@
 **Tema:** Comandos de Linux, Virtualización  
 **Nombre:** Carlos Andrés Torres López  
 **Código:** A00141804
-**Url Git-hub:** https://github.com/candrelopez/so-exam2/edit/A00141804
+**Url Git-hub:** https://github.com/candrelopez/so-exam2/tree/A00141804
 
 
 Parcial Sistemas operativos  
