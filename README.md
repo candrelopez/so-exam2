@@ -26,7 +26,7 @@ Parcial Sistemas operativos
 luego de eso con el comando systemctl start crond , inicio el proceso, y con el comando sytemctl crond reviso el estado del proceso
 como se evidencia a continucación:
 
-![procesos](proceso.PNG)  
+![procesos](Proceso.PNG)  
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
  * Las pruebas se realizaran sobre un solo núcleo de la CPU
