@@ -59,5 +59,14 @@ y finalmente con el systemctl stop firewall se para el servicio, y crond queda c
  
 5. Por medio de las evidencias obtenidas en los puntos anteriores y de fuentes de consulta en Internet, elabore las definiciones para los grupos de control CPUQuota y CPUShares, además concluya acerca de cuando es preferible usar un recurso de control sobre otro (20%)
 
+  
+R://
+Con la evidencia de los puntos anterioes se puede considerar que CPUQuota es para asignar un porcentaje de CPU a un proceso especifico, y CPUShares es el la asignación de tiempo de acceso a cpu, se podria decir que es una especie de prioridad de tiempo de acceso a la cpu, la información se consulto de la siguiente refenrecia:
+
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/resource_management_guide/sec-modifying_control_groups
+
+
+
 
  
