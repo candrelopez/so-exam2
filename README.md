@@ -51,6 +51,12 @@ y finalmente con el systemctl stop firewall se para el servicio, y crond queda c
  * Se deben ejecutar dos procesos
  * Uno de los procesos tendrá el 25% de la CPU mientras que el otro tendrá el 75% de la CPU
  * Cuando uno de los procesos se cancela, el que continua ejecutándose debe poder llegar al 100% de la CPU
+ R://   
+ 
+ Como se realizo en el punto anterior en este punto se realiza la asignación de la cuota para los dos procesos de la siguiente manera:
+ 
+ ![cuota](cuota.PNG)  
+ 
 5. Por medio de las evidencias obtenidas en los puntos anteriores y de fuentes de consulta en Internet, elabore las definiciones para los grupos de control CPUQuota y CPUShares, además concluya acerca de cuando es preferible usar un recurso de control sobre otro (20%)
 
 
