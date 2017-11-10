@@ -32,9 +32,11 @@ luego de esto con el comando systemctl show crontad muestro toda la indormación
 
 ![INFO](INFO.PNG)  
   
-Con el comando system-run -p CPUQuota=50% --slice crontad , con eso asigna este porcentaje de cpu al proceso crontad  
+Con el siguiente comando asigno la cuota de CPU al servicio:
 
-![asig](asignacion.PNG)  
+
+
+
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
  * Las pruebas se realizaran sobre un solo núcleo de la CPU
