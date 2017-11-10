@@ -32,9 +32,9 @@ luego de esto con el comando systemctl show crontad muestro toda la indormación
 
 ![INFO](INFO.PNG)  
   
-Con el siguiente comando asigno la cuota de CPU al servicio:
+Con el siguiente comando asigno la cuota de CPU al servicio:  
 
-
+![asig](Asig.PNG) 
 
 
  
