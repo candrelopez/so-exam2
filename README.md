@@ -42,7 +42,7 @@ y con el comando systemd-cgtop y me muestra lo siguiente:
 
 luego de esto se inicial el proceso de firewalld  
   
-
+![firewall](Firewall.PNG)   
 Y se se asigna a este proceso un 50% de cuota de cep de la misma manera con el comando systemcl set-property firewalld CPUQuota=50%
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
