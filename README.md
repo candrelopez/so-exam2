@@ -30,7 +30,7 @@ como se evidencia a continucación:
 
 luego de esto con el comando systemctl show crontad muestro toda la indormación del servicio crontad y se ve claramente que la asignación de cpu no tiene limite:  
 
-![INFO](Proceso.PNG)  
+![INFO](INFO.PNG)  
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
  * Las pruebas se realizaran sobre un solo núcleo de la CPU
