@@ -36,6 +36,8 @@ Con el siguiente comando asigno la cuota de CPU al servicio:
 
 ![asig](Asig.PNG) 
 
+y con el comando systemd-cgtop y me muestra lo siguiente:
+
 
  
 4.  Realice una prueba de concepto empleando systemd y el recurso de control CPUShares teniendo en cuenta los requerimientos que se describen a continuación. Incluya evidencias del funcionamiento de lo solicitado (30%):
